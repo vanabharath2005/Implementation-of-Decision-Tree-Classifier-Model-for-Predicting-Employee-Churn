@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/8ad2d68e-3d02-46d1-aca5-e50747f9b2ea)# Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn
 
 ## AIM:
 To write a program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
@@ -54,11 +53,9 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ![image](https://github.com/user-attachments/assets/79678a6d-7525-4932-b412-74518439fa03)
 ![image](https://github.com/user-attachments/assets/6c6b3807-a43a-41d6-a08e-7c9954d3b05b)
 ![image](https://github.com/user-attachments/assets/2d8bb0fc-53b0-4210-88ed-21d3cabe6747)
-![image](https://github.com/user-attachments/assets/9e7f1b71-22e8-40a8-8e70-6135dc460809)
 ![image](https://github.com/user-attachments/assets/174b4377-a0ab-4c19-b384-74effd6fa505)
-![image](https://github.com/user-attachments/assets/69cfa76d-4bc1-4676-8ae4-1ebb10a74b0c)
 ![image](https://github.com/user-attachments/assets/0f864488-54ee-47e8-8db0-7621b2bf1f2a)
-![image](https://github.com/user-attachments/assets/4e94ec47-7eb1-4790-9bd1-addfb7b65f94)
+
 
 
 
